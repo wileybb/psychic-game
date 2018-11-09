@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+    color: purple;
+    background-color: aquamarine;
+    margin: 0 auto;
+    width: 15%;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    color: goldenrod;
+    font-weight: bolder;
+}
+body{
+    width: 100%;
+    background-image: url(https://karinlaing.com/wp-content/uploads/2018/04/psychic-attacks-and-shielding.jpg);
+}
